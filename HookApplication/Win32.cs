@@ -22,7 +22,6 @@ namespace HookApplication
         [StructLayout(LayoutKind.Sequential)] 
 
         public class KeyboardHookStruct
-
         {
 
             public int vkCode; 
